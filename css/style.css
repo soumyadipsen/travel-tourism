@@ -285,6 +285,15 @@ h3.agileinfo_sign  {
     -ms-background-size: cover;
     min-height: 300px;
 }
+.bannerbol{
+    background: url(../images/bolpur.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    min-height: 300px;
+}
 /*-- nav --*/
 .navbar-default {
     background: none;
